@@ -13,6 +13,7 @@ Sou estudante de **Desenvolvimento de Software**, atualmente no 4º ciclo da fac
 - 📘 Cursos complementares:
   - [🔄] HTML, CSS, JS
   - [🔄] React e Next.js 
+  - [🔄] Java
   - [🔄] Node.js 
   - [🔄] Git e GitHub 
   - [🔄] API com Bun
