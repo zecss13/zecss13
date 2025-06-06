@@ -37,5 +37,5 @@ Sou estudante de **Desenvolvimento de Software**, atualmente no 4º ciclo da fac
 
 ## 📫 Entre em contato
 - 💼 linkedin.com/in/ezequiel-santos13
-- 
+  
 ---
