@@ -57,7 +57,7 @@ Estou seguindo uma trilha de aprendizado voltada para o desenvolvimento fullstac
 - Montar um portfólio online
 - Aprender testes automatizados (Jest, Cypress)
 - Aprofundar em banco de dados (PostgreSQL)
-
+- Experiência na área de desenvolvimento
 ---
 
 ## 📫 Entre em contato
