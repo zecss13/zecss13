@@ -9,7 +9,7 @@ Sou estudante de **Desenvolvimento de Software**, atualmente no 4º ciclo da fac
 Estou seguindo uma trilha de aprendizado voltada para o desenvolvimento fullstack moderno com:
 
 - **Front-end:** HTML, CSS, JavaScript, React.js, Next.js
-- **Back-end:** Node.js, Express, APIs REST, Laravel (PHP)
+- **Back-end:** Java, Node.js, Express, APIs REST, Laravel (PHP)
 - **Mobile:** React Native + Expo Router
 - **Design:** Figma (para interpretar protótipos e criar interfaces melhores)
 - **Controle de versão:** Git e GitHub
@@ -42,6 +42,7 @@ Estou seguindo uma trilha de aprendizado voltada para o desenvolvimento fullstac
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
