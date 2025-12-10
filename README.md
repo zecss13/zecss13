@@ -39,12 +39,6 @@ Embora meu foco agora seja código, trago na bagagem habilidades essenciais para
 
 ---
 
-### ⚡ Stats
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zecss13&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecss13&layout=compact&theme=dracula)](https://github.com/zecss13)
-
----
-
 ### 📫 Contato?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ezequiel-santos13)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezequiel_ssantos@outlook.com)
